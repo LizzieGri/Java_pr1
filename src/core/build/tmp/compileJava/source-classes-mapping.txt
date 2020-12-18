@@ -1,0 +1,4 @@
+com/Task31/core/CoreApplication.java
+ com.Task31.core.CoreApplication
+com/Task31/core/controllers/SomeController.java
+ com.Task31.core.controllers.SomeController
